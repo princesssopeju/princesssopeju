@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @princesssopeju
 - 👀 I’m interested in coding and software development
-- 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on for internships
+- 🌱 I’m Proficient in Java , Python , Data structures and Algorithm
+- 💞️ I’m looking for summer Software Development internships
 - 📫 How to reach me @princess.sopeju@su.suffolk.edu
 
 <!---
