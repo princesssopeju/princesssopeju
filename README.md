@@ -36,7 +36,7 @@
 Here are some of the projects I've been working on:
 
 - **Princess Platformer Game:** A 2D platformer game with custom gameplay mechanics, dynamic state management, and engaging visuals.
-- **[Your Other Project](#):** Brief description of the project with a focus on what makes it special.
+- **Pantry Tracker:** An App that Tracks Pantry Items.
 
 <!-- Contact Me Section -->
 ## Contact Me
