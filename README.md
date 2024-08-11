@@ -68,11 +68,9 @@ Here are some of the projects I've been working on:
 </p>
 
 ## GitHub Stats
-## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=princesssopeju&theme=radical&title_color=e75480&icon_color=e75480&text_color=ffffff&bg_color=000000" alt="GitHub Streak Stats" />
-
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesssopeju&layout=compact&theme=radical&title_color=e75480&icon_color=e75480&text_color=ffffff&bg_color=000000" alt="Top Languages" />
 </p>
