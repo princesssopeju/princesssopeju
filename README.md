@@ -16,6 +16,15 @@
 - 🌸 **Frontend Development:** Crafting responsive, interactive, and aesthetically pleasing user interfaces.
 - 🔐 **Cybersecurity:** Protecting data and implementing protocols.
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princesssopeju&theme=radical&title_color=e75480&icon_color=e75480&text_color=ffffff&bg_color=000000" alt="GitHub Streak Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesssopeju&layout=compact&theme=radical&title_color=e75480&icon_color=e75480&text_color=ffffff&bg_color=000000" alt="Top Languages" />
+</p>
+
+
 ## Languages & Tools
 
 ### Languages
@@ -65,14 +74,6 @@ Here are some of the projects I've been working on:
   <a href="mailto:princessopeju@gmail.com">
     <img src="https://img.shields.io/badge/Email-princessopeju@gmail.com-e75480?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princesssopeju&theme=radical&title_color=e75480&icon_color=e75480&text_color=ffffff&bg_color=000000" alt="GitHub Streak Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesssopeju&layout=compact&theme=radical&title_color=e75480&icon_color=e75480&text_color=ffffff&bg_color=000000" alt="Top Languages" />
 </p>
 
 
