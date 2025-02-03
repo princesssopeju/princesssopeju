@@ -72,7 +72,7 @@ Here are some of the projects I've been working on:
     <img src="https://img.shields.io/badge/LinkedIn-Princess%20Sopeju-e75480?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:princesssopeju@gmail.com">
-    <img src="https://img.shields.io/badge/Email-princessopeju@gmail.com-e75480?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-princesssopeju@gmail.com-e75480?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
