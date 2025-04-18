@@ -13,7 +13,6 @@
 
 - 💻 **Backend Development:** Proficient in Java, Python, C++, C, JavaScript, and always eager to learn more.
 - 🤖 **Artificial Intelligence:** Finding datasets and training models that enhance daily activities.
-- 🌸 **Frontend Development:** Crafting responsive, interactive, and aesthetically pleasing user interfaces.
 - 🔐 **Cybersecurity:** Protecting data and implementing protocols.
 
 ## GitHub Stats
