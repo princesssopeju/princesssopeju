@@ -17,12 +17,16 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princesssopeju&theme=radical&title_color=e75480&icon_color=e75480&text_color=ffffff&bg_color=000000" alt="GitHub Streak Stats" />
+**## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=princesssopeju&theme=radical&title_color=e75480&icon_color=e75480&text_color=ffffff&background=000000" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=princesssopeju&show_icons=true&theme=radical&title_color=e75480&icon_color=e75480&text_color=ffffff&bg_color=000000" alt="GitHub Stats" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesssopeju&layout=compact&theme=radical&title_color=e75480&icon_color=e75480&text_color=ffffff&bg_color=000000" alt="Top Languages" />
 </p>
-
+**
 
 ## Languages & Tools
 
